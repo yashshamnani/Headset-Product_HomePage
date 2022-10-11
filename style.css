@@ -90,21 +90,21 @@ h5.sub-headline{
 }
 [alt="headphone"]{
 position: absolute;
-right: 240px;
-top: 70px;
+right: 120px;
+top: 80px;
 height: 500px;
 margin-top: 30px;
 margin-right: 60px;
 }
 .discount{
 position: absolute;
-right: 660px;
+right: 520px;
 bottom: 240px;
 z-index: 3;
 }
 .discount-content{
     position: absolute;
-    right: 660px;
+    right: 520px;
     bottom: 280px;
     color: #fff;
     z-index:4;
@@ -117,6 +117,7 @@ z-index: 3;
      
     margin-left: 10px;
 }
+ 
 .yellow-dot{
     height: 10px;
     width: 10px;
@@ -146,12 +147,12 @@ z-index: 3;
 .dots{
     display: flex;
      position: absolute;
-     right: 460px;
+     right: 300px;
      bottom: 200px;
    
 }
 .right-section .action-btn{
     position: absolute;
-    right: 430px;
+    right: 290px;
     bottom: 100px;
 }
