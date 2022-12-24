@@ -7,7 +7,7 @@
  
  
 
-## LiveLink -- [Product](https://main--headset-product-homepage-yashshamnani.netlify.app/)
+## LiveLink -- [Product](https://yashshamnani-headset-homepage.netlify.app/)
 
 
 
